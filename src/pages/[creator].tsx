@@ -104,7 +104,7 @@ const Page: FC<IPayWall> = ({
     return (
         <>
             <Head>
-                <title>Support {pageId} | Krypto Koffee</title>
+                <title>Support {pageId} | Unit e</title>
             </Head>
             <Content
                 sx={{
