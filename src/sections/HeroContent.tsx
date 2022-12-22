@@ -55,8 +55,7 @@ export const HeroContent: FC<IHeroContent> = ({
                     </span>
                 </Typography>
                 <Typography sx={{ px: { xs: 2, md: 8 } }}>
-                    Krypto Koffee is a growing means of personalized donations
-                    and member subscriptions built for a decentralized and
+                    Unit e is built for a decentralized and
                     transparent world
                 </Typography>
 
