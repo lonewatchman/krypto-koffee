@@ -11,8 +11,8 @@ interface IEmbedTab {
 }
 export const EmbedTab: FC<IEmbedTab> = ({ creator }) => {
     const embedCode = `
-        <a href="https://krypto-koffee.vercel.app/${creator.name}" target="_blank" rel="noreferrer">
-            <img src="https://krypto-koffee.vercel.app/assets/koffee-button.png" alt="" />
+        <a href="https://unit-e.us/${creator.name}" target="_blank" rel="noreferrer">
+            <img src="https://unit-e.us/assets/koffee-button.png" alt="" />
         </a>
     `;
     return (
