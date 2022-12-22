@@ -78,7 +78,7 @@ export const HeroContent: FC<IHeroContent> = ({
                                 fontWeight="bold"
                                 sx={{ width: "inherit" }}
                             >
-                                krypto-koffee.app/
+                                unit-e.us/
                             </Typography>
                         ),
                         endAdornment: (
