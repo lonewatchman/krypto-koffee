@@ -122,7 +122,7 @@ const Page: FC<IPage> = ({ network, authWallet }) => {
                                     cursor: "pointer",
                                 }}
                             >
-                                https://krypto-koffee.app/{pageRef.current?.id}
+                                https://unit-e.us/{pageRef.current?.id}
                             </Typography>
                         </NextLink>
                         <Typography variant="body1" gutterBottom>
