@@ -63,7 +63,7 @@ export const Navbar: FC<INavbar> = ({
                 >
                     <Box sx={{ lineHeight: 0, position: "relative" }}>
                         <NextLink href="/" passHref>
-                            <Tooltip title="KryptoKoffee">
+                            <Tooltip title="Unit e">
                                 <Typography
                                     sx={{
                                         ml: 1,
